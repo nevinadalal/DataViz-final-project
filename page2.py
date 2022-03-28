@@ -9,7 +9,7 @@ def graphs2(data, countries, year):
     
     #Selection that choosed the nearest point & selects based on x-value
     #nearest = alt.selection(type = 'single', nearest = True, on = 'mouseover', fields = ['Year'], empty = 'none')
-    click = alt.selection_multi(fields=['Country'], bind = 'legend')
+    click = alt.selection_multi(encodings = ['color'])
 
     #simple line chart
     line_chart = alt.Chart(source).mark_line(point=True).encode(
@@ -43,6 +43,8 @@ def graphs2(data, countries, year):
     x='Value:Q',
     color=alt.Color("Country:N"),
     opacity = alt.condition(click, alt.value(1), alt.value(0.2)) 
+    ).add_selection(
+        click
     ).properties(
         width=250,
         height=250
@@ -69,6 +71,8 @@ def graphs2(data, countries, year):
         x='Value:Q',
         color=alt.Color("Country:N"),
         opacity = alt.condition(click, alt.value(1), alt.value(0.2)) 
+    ).add_selection(
+        click
     ).properties(
         width=250,
         height=250
