@@ -1,6 +1,7 @@
 import altair as alt
 import pandas as pd
 from filters import filter_dataset
+import met_brewer.palettes
 
 def graphs2(data, countries, year):
     
@@ -14,7 +15,11 @@ def graphs2(data, countries, year):
     line_chart = alt.Chart(source).mark_line(point=True).encode(
         x = alt.X("Year:O",title ="Year"),
         y = alt.Y("Value:Q",title = "Index"),
-        color = alt.Color("Country:N"),
+        color = alt.Color(
+            "Country:N",
+            legend = alt.Legend(title = "Country"),
+            scale = alt.Scale(range = met_brewer.palettes.met_brew(name = "Hokusai3", n = len(countries), brew_type = "Continuos"))
+        ),
         tooltip=['Year', 'Country', 'Value'],
         opacity = alt.condition(click, alt.value(1), alt.value(0.2))   
     ).add_selection(
