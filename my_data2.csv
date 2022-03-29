@@ -1,0 +1,251 @@
+,Country,Value,Year,Sex,Indicator,id
+0,Austria,19.2,2010,Tot,EMP9_5,0
+1,Belgium,7.0,2010,Tot,EMP9_5,1
+2,Czech Republic,15.8,2010,Tot,EMP9_5,2
+3,Denmark,8.9,2010,Tot,EMP9_5,3
+4,France,9.0,2010,Tot,EMP9_5,4
+5,Germany,16.7,2010,Tot,EMP9_5,5
+6,Greece,9.9,2010,Tot,EMP9_5,6
+7,Hungary,6.4,2010,Tot,EMP9_5,7
+8,Iceland,16.4,2010,Tot,EMP9_5,8
+9,Ireland,14.3,2010,Tot,EMP9_5,9
+10,Italy,5.1,2010,Tot,EMP9_5,10
+11,Luxembourg,5.0,2010,Tot,EMP9_5,11
+12,Netherlands,18.2,2010,Tot,EMP9_5,12
+13,Norway,8.4,2010,Tot,EMP9_5,13
+14,Poland,7.2,2010,Tot,EMP9_5,14
+15,Portugal,16.0,2010,Tot,EMP9_5,15
+16,Slovak Republic,14.9,2010,Tot,EMP9_5,16
+17,Spain,13.5,2010,Tot,EMP9_5,17
+18,Sweden,9.4,2010,Tot,EMP9_5,18
+19,Switzerland,20.1,2010,Tot,EMP9_5,19
+20,United Kingdom,19.2,2010,Tot,EMP9_5,20
+21,Estonia,23.5,2010,Tot,EMP9_5,21
+22,Slovenia,1.0,2010,Tot,EMP9_5,22
+23,Latvia,19.1,2010,Tot,EMP9_5,23
+24,Lithuania,10.6,2010,Tot,EMP9_5,24
+0,Austria,18.6,2011,Tot,EMP9_5,0
+1,Belgium,5.8,2011,Tot,EMP9_5,1
+2,Czech Republic,16.3,2011,Tot,EMP9_5,2
+3,Denmark,7.9,2011,Tot,EMP9_5,3
+4,France,14.0,2011,Tot,EMP9_5,4
+5,Germany,16.9,2011,Tot,EMP9_5,5
+6,Greece,10.7,2011,Tot,EMP9_5,6
+7,Hungary,6.9,2011,Tot,EMP9_5,7
+8,Iceland,14.1,2011,Tot,EMP9_5,8
+9,Ireland,14.3,2011,Tot,EMP9_5,9
+10,Italy,5.1,2011,Tot,EMP9_5,10
+11,Luxembourg,5.0,2011,Tot,EMP9_5,11
+12,Netherlands,18.2,2011,Tot,EMP9_5,12
+13,Norway,8.1,2011,Tot,EMP9_5,13
+14,Poland,7.2,2011,Tot,EMP9_5,14
+15,Portugal,15.2,2011,Tot,EMP9_5,15
+16,Slovak Republic,15.4,2011,Tot,EMP9_5,16
+17,Spain,13.5,2011,Tot,EMP9_5,17
+18,Sweden,9.2,2011,Tot,EMP9_5,18
+19,Switzerland,20.1,2011,Tot,EMP9_5,19
+20,United Kingdom,18.2,2011,Tot,EMP9_5,20
+21,Estonia,23.5,2011,Tot,EMP9_5,21
+22,Slovenia,1.0,2011,Tot,EMP9_5,22
+23,Latvia,19.1,2011,Tot,EMP9_5,23
+24,Lithuania,10.6,2011,Tot,EMP9_5,24
+0,Austria,18.2,2012,Tot,EMP9_5,0
+1,Belgium,6.4,2012,Tot,EMP9_5,1
+2,Czech Republic,15.3,2012,Tot,EMP9_5,2
+3,Denmark,7.0,2012,Tot,EMP9_5,3
+4,France,13.7,2012,Tot,EMP9_5,4
+5,Germany,15.6,2012,Tot,EMP9_5,5
+6,Greece,6.9,2012,Tot,EMP9_5,6
+7,Hungary,11.3,2012,Tot,EMP9_5,7
+8,Iceland,14.1,2012,Tot,EMP9_5,8
+9,Ireland,14.3,2012,Tot,EMP9_5,9
+10,Italy,11.1,2012,Tot,EMP9_5,10
+11,Luxembourg,5.0,2012,Tot,EMP9_5,11
+12,Netherlands,18.2,2012,Tot,EMP9_5,12
+13,Norway,6.7,2012,Tot,EMP9_5,13
+14,Poland,10.6,2012,Tot,EMP9_5,14
+15,Portugal,16.3,2012,Tot,EMP9_5,15
+16,Slovak Republic,16.0,2012,Tot,EMP9_5,16
+17,Spain,13.5,2012,Tot,EMP9_5,17
+18,Sweden,9.3,2012,Tot,EMP9_5,18
+19,Switzerland,19.3,2012,Tot,EMP9_5,19
+20,United Kingdom,17.8,2012,Tot,EMP9_5,20
+21,Estonia,23.5,2012,Tot,EMP9_5,21
+22,Slovenia,1.0,2012,Tot,EMP9_5,22
+23,Latvia,19.1,2012,Tot,EMP9_5,23
+24,Lithuania,10.6,2012,Tot,EMP9_5,24
+0,Austria,18.1,2013,Tot,EMP9_5,0
+1,Belgium,5.9,2013,Tot,EMP9_5,1
+2,Czech Republic,15.4,2013,Tot,EMP9_5,2
+3,Denmark,6.8,2013,Tot,EMP9_5,3
+4,France,13.7,2013,Tot,EMP9_5,4
+5,Germany,14.1,2013,Tot,EMP9_5,5
+6,Greece,11.3,2013,Tot,EMP9_5,6
+7,Hungary,8.7,2013,Tot,EMP9_5,7
+8,Iceland,14.5,2013,Tot,EMP9_5,8
+9,Ireland,14.3,2013,Tot,EMP9_5,9
+10,Italy,11.1,2013,Tot,EMP9_5,10
+11,Luxembourg,5.0,2013,Tot,EMP9_5,11
+12,Netherlands,18.2,2013,Tot,EMP9_5,12
+13,Norway,7.3,2013,Tot,EMP9_5,13
+14,Poland,10.6,2013,Tot,EMP9_5,14
+15,Portugal,16.7,2013,Tot,EMP9_5,15
+16,Slovak Republic,14.1,2013,Tot,EMP9_5,16
+17,Spain,13.5,2013,Tot,EMP9_5,17
+18,Sweden,9.4,2013,Tot,EMP9_5,18
+19,Switzerland,19.3,2013,Tot,EMP9_5,19
+20,United Kingdom,17.5,2013,Tot,EMP9_5,20
+21,Estonia,23.5,2013,Tot,EMP9_5,21
+22,Slovenia,1.0,2013,Tot,EMP9_5,22
+23,Latvia,19.1,2013,Tot,EMP9_5,23
+24,Lithuania,10.6,2013,Tot,EMP9_5,24
+0,Austria,17.7,2014,Tot,EMP9_5,0
+1,Belgium,3.3,2014,Tot,EMP9_5,1
+2,Czech Republic,16.3,2014,Tot,EMP9_5,2
+3,Denmark,6.3,2014,Tot,EMP9_5,3
+4,France,9.6,2014,Tot,EMP9_5,4
+5,Germany,17.2,2014,Tot,EMP9_5,5
+6,Greece,7.1,2014,Tot,EMP9_5,6
+7,Hungary,3.8,2014,Tot,EMP9_5,7
+8,Iceland,13.7,2014,Tot,EMP9_5,8
+9,Ireland,10.6,2014,Tot,EMP9_5,9
+10,Italy,6.2,2014,Tot,EMP9_5,10
+11,Luxembourg,4.1,2014,Tot,EMP9_5,11
+12,Netherlands,15.9,2014,Tot,EMP9_5,12
+13,Norway,6.6,2014,Tot,EMP9_5,13
+14,Poland,11.1,2014,Tot,EMP9_5,14
+15,Portugal,15.3,2014,Tot,EMP9_5,15
+16,Slovak Republic,14.4,2014,Tot,EMP9_5,16
+17,Spain,11.5,2014,Tot,EMP9_5,17
+18,Sweden,9.2,2014,Tot,EMP9_5,18
+19,Switzerland,16.9,2014,Tot,EMP9_5,19
+20,United Kingdom,17.4,2014,Tot,EMP9_5,20
+21,Estonia,22.9,2014,Tot,EMP9_5,21
+22,Slovenia,5.0,2014,Tot,EMP9_5,22
+23,Latvia,21.1,2014,Tot,EMP9_5,23
+24,Lithuania,12.5,2014,Tot,EMP9_5,24
+0,Austria,17.0,2015,Tot,EMP9_5,0
+1,Belgium,4.7,2015,Tot,EMP9_5,1
+2,Czech Republic,16.5,2015,Tot,EMP9_5,2
+3,Denmark,5.8,2015,Tot,EMP9_5,3
+4,France,13.0,2015,Tot,EMP9_5,4
+5,Germany,15.8,2015,Tot,EMP9_5,5
+6,Greece,6.3,2015,Tot,EMP9_5,6
+7,Hungary,9.5,2015,Tot,EMP9_5,7
+8,Iceland,9.9,2015,Tot,EMP9_5,8
+9,Ireland,10.6,2015,Tot,EMP9_5,9
+10,Italy,6.2,2015,Tot,EMP9_5,10
+11,Luxembourg,4.1,2015,Tot,EMP9_5,11
+12,Netherlands,15.9,2015,Tot,EMP9_5,12
+13,Norway,7.5,2015,Tot,EMP9_5,13
+14,Poland,11.1,2015,Tot,EMP9_5,14
+15,Portugal,18.9,2015,Tot,EMP9_5,15
+16,Slovak Republic,13.4,2015,Tot,EMP9_5,16
+17,Spain,11.5,2015,Tot,EMP9_5,17
+18,Sweden,8.3,2015,Tot,EMP9_5,18
+19,Switzerland,16.9,2015,Tot,EMP9_5,19
+20,United Kingdom,17.1,2015,Tot,EMP9_5,20
+21,Estonia,22.9,2015,Tot,EMP9_5,21
+22,Slovenia,5.0,2015,Tot,EMP9_5,22
+23,Latvia,21.1,2015,Tot,EMP9_5,23
+24,Lithuania,12.5,2015,Tot,EMP9_5,24
+0,Austria,15.7,2016,Tot,EMP9_5,0
+1,Belgium,3.7,2016,Tot,EMP9_5,1
+2,Czech Republic,16.0,2016,Tot,EMP9_5,2
+3,Denmark,5.7,2016,Tot,EMP9_5,3
+4,France,13.7,2016,Tot,EMP9_5,4
+5,Germany,15.5,2016,Tot,EMP9_5,5
+6,Greece,4.5,2016,Tot,EMP9_5,6
+7,Hungary,9.4,2016,Tot,EMP9_5,7
+8,Iceland,11.5,2016,Tot,EMP9_5,8
+9,Ireland,10.6,2016,Tot,EMP9_5,9
+10,Italy,5.6,2016,Tot,EMP9_5,10
+11,Luxembourg,4.1,2016,Tot,EMP9_5,11
+12,Netherlands,15.9,2016,Tot,EMP9_5,12
+13,Norway,6.8,2016,Tot,EMP9_5,13
+14,Poland,9.4,2016,Tot,EMP9_5,14
+15,Portugal,14.3,2016,Tot,EMP9_5,15
+16,Slovak Republic,13.9,2016,Tot,EMP9_5,16
+17,Spain,11.5,2016,Tot,EMP9_5,17
+18,Sweden,8.2,2016,Tot,EMP9_5,18
+19,Switzerland,14.8,2016,Tot,EMP9_5,19
+20,United Kingdom,16.8,2016,Tot,EMP9_5,20
+21,Estonia,22.9,2016,Tot,EMP9_5,21
+22,Slovenia,5.0,2016,Tot,EMP9_5,22
+23,Latvia,21.1,2016,Tot,EMP9_5,23
+24,Lithuania,12.5,2016,Tot,EMP9_5,24
+0,Austria,15.4,2017,Tot,EMP9_5,0
+1,Belgium,4.2,2017,Tot,EMP9_5,1
+2,Czech Republic,15.6,2017,Tot,EMP9_5,2
+3,Denmark,5.3,2017,Tot,EMP9_5,3
+4,France,13.7,2017,Tot,EMP9_5,4
+5,Germany,16.2,2017,Tot,EMP9_5,5
+6,Greece,4.5,2017,Tot,EMP9_5,6
+7,Hungary,5.3,2017,Tot,EMP9_5,7
+8,Iceland,11.5,2017,Tot,EMP9_5,8
+9,Ireland,10.6,2017,Tot,EMP9_5,9
+10,Italy,5.6,2017,Tot,EMP9_5,10
+11,Luxembourg,4.1,2017,Tot,EMP9_5,11
+12,Netherlands,15.9,2017,Tot,EMP9_5,12
+13,Norway,6.4,2017,Tot,EMP9_5,13
+14,Poland,9.4,2017,Tot,EMP9_5,14
+15,Portugal,14.8,2017,Tot,EMP9_5,15
+16,Slovak Republic,15.0,2017,Tot,EMP9_5,16
+17,Spain,11.5,2017,Tot,EMP9_5,17
+18,Sweden,7.3,2017,Tot,EMP9_5,18
+19,Switzerland,14.8,2017,Tot,EMP9_5,19
+20,United Kingdom,16.5,2017,Tot,EMP9_5,20
+21,Estonia,22.9,2017,Tot,EMP9_5,21
+22,Slovenia,5.0,2017,Tot,EMP9_5,22
+23,Latvia,21.1,2017,Tot,EMP9_5,23
+24,Lithuania,12.5,2017,Tot,EMP9_5,24
+0,Austria,14.9,2018,Tot,EMP9_5,0
+1,Belgium,4.2,2018,Tot,EMP9_5,1
+2,Czech Republic,15.1,2018,Tot,EMP9_5,2
+3,Denmark,4.9,2018,Tot,EMP9_5,3
+4,France,11.5,2018,Tot,EMP9_5,4
+5,Germany,15.3,2018,Tot,EMP9_5,5
+6,Greece,5.9,2018,Tot,EMP9_5,6
+7,Hungary,5.1,2018,Tot,EMP9_5,7
+8,Iceland,12.8,2018,Tot,EMP9_5,8
+9,Ireland,8.0,2018,Tot,EMP9_5,9
+10,Italy,5.6,2018,Tot,EMP9_5,10
+11,Luxembourg,4.1,2018,Tot,EMP9_5,11
+12,Netherlands,13.0,2018,Tot,EMP9_5,12
+13,Norway,5.8,2018,Tot,EMP9_5,13
+14,Poland,11.5,2018,Tot,EMP9_5,14
+15,Portugal,11.7,2018,Tot,EMP9_5,15
+16,Slovak Republic,15.7,2018,Tot,EMP9_5,16
+17,Spain,11.5,2018,Tot,EMP9_5,17
+18,Sweden,7.1,2018,Tot,EMP9_5,18
+19,Switzerland,15.1,2018,Tot,EMP9_5,19
+20,United Kingdom,16.3,2018,Tot,EMP9_5,20
+21,Estonia,17.3,2018,Tot,EMP9_5,21
+22,Slovenia,5.0,2018,Tot,EMP9_5,22
+23,Latvia,21.1,2018,Tot,EMP9_5,23
+24,Lithuania,12.5,2018,Tot,EMP9_5,24
+0,Austria,14.9,2019,Tot,EMP9_5,0
+1,Belgium,4.2,2019,Tot,EMP9_5,1
+2,Czech Republic,14.7,2019,Tot,EMP9_5,2
+3,Denmark,4.9,2019,Tot,EMP9_5,3
+4,France,11.5,2019,Tot,EMP9_5,4
+5,Germany,15.3,2019,Tot,EMP9_5,5
+6,Greece,5.9,2019,Tot,EMP9_5,6
+7,Hungary,5.1,2019,Tot,EMP9_5,7
+8,Iceland,12.8,2019,Tot,EMP9_5,8
+9,Ireland,8.0,2019,Tot,EMP9_5,9
+10,Italy,5.6,2019,Tot,EMP9_5,10
+11,Luxembourg,4.1,2019,Tot,EMP9_5,11
+12,Netherlands,13.0,2019,Tot,EMP9_5,12
+13,Norway,5.0,2019,Tot,EMP9_5,13
+14,Poland,11.5,2019,Tot,EMP9_5,14
+15,Portugal,11.7,2019,Tot,EMP9_5,15
+16,Slovak Republic,13.9,2019,Tot,EMP9_5,16
+17,Spain,11.5,2019,Tot,EMP9_5,17
+18,Sweden,7.6,2019,Tot,EMP9_5,18
+19,Switzerland,15.1,2019,Tot,EMP9_5,19
+20,United Kingdom,16.0,2019,Tot,EMP9_5,20
+21,Estonia,17.3,2019,Tot,EMP9_5,21
+22,Slovenia,5.0,2019,Tot,EMP9_5,22
+23,Latvia,21.1,2019,Tot,EMP9_5,23
+24,Lithuania,12.5,2019,Tot,EMP9_5,24
