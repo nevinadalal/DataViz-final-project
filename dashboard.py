@@ -1,7 +1,8 @@
 import streamlit as st
 import pandas as pd
 import altair as alt
-from page2 import graphs2
+from page1 import page1
+from page2 import page2
 
 #pictures
 
@@ -44,17 +45,12 @@ if __name__ == '__main__':
     page = st.select_slider('Navigate across the pages',['Homepage', 'Page 1', 'Page 2'])
     
     if page == 'Homepage':
-        st.markdown("## Visualization of Gender Equality in Europe \nTeam: PowerPuff Girl")
+        st.markdown("## Gender Equality in Employment in Europe \nTeam: PowerPuff Girl")
         st.image("https://www.ilprimatonazionale.it/wp-content/uploads/2019/06/gender-gap.jpg")
     
     if page =="Page 1":
-        st.markdown("## Woman in Decision Making")
+        st.markdown("# Woman in Decision Making")
+        page1(df, countries)
 
     if page == "Page 2":
-        st.markdown('## Wage Gap and Parental Leave')
-        countries = st.sidebar.multiselect("Select the countries you want to visualize: ", countries, default = ["France", "Greece","Italy", "Switzerland"])
-        year = st.sidebar.slider(label = "Select the year", min_value=2010, max_value=2019, value=2019, step=1)
-
-        graph = graphs2(df, countries, year)
-        st.altair_chart(graph,use_container_width=True)
-
+        page2(df, countries)
