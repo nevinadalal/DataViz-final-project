@@ -108,4 +108,4 @@ def page1(df, countries):
     col2.markdown(f"Year : {select_year}")
     col2.metric(" ",str(percentage)+"%", delta)
     col2.markdown(f"with respect to {select_year-1}")
-    alt.altair_chart(mapgraph)
+    st.altair_chart(mapgraph)
