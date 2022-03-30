@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import altair as alt
-from page1 import page1
+from page1updated import page1updated
 from page2 import page2
 
 #pictures
@@ -50,7 +50,7 @@ if __name__ == '__main__':
     
     if page =="Page 1":
         st.markdown("# Woman in Decision Making")
-        page1(df, countries)
+        page1updated(df, countries)
 
     if page == "Page 2":
         page2(df, countries)
