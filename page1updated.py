@@ -68,6 +68,7 @@ def maps(df,select_indicator,select_year):
            )\
     .add_selection(select_year)\
     .transform_filter(select_year)\
+    .add_selection(select_indicator)\
     .transform_filter(select_indicator)\
     .transform_lookup(
         lookup='id',
