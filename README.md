@@ -2,7 +2,13 @@
 
 As a part of a final project we created a StreamLit application to visually track the inquality in gender specifically for European countries.
 
-# How to Use the Tool:
+## Package Requirements
+1. streamlit
+2. altair
+3. vega_datasets
+4. filters
+
+## How to Use the Tool:
 When you first access the tool, you will see an opening page that displays the main theme of our tool. You can access the pages using the slider at the top which takes you to the next pages.
 <p align="center">
   <img width="400" src=https://user-images.githubusercontent.com/45751214/236850890-86ea1525-12fd-4dae-a54a-9e1a6b7703bd.png>
